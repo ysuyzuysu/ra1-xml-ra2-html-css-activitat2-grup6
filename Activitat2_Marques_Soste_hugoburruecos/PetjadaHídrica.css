@@ -1,0 +1,38 @@
+body {
+    background-color: #0bc915;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+nav {
+    padding: 10px;
+    font-family: Arial, sans-serif, 20px;
+}
+
+
+section {
+    border: 1px solid #0bc915;
+    padding: 10px;
+    background-color: #0bc915;
+    color: #fefffe;
+    font-family: Arial, sans-serif;
+}
+
+
+
+article{
+    border: 1px solid #0bc915;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 50px;
+    background-color: #fefffe;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #0bc915;
+    color: #fefffe;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
