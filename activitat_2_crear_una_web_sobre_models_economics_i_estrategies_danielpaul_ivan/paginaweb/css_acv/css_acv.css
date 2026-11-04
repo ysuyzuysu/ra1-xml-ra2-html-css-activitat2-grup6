@@ -38,7 +38,6 @@ footer {
     bottom: 0;
 }
 
-/* Contenidor flexible per posar la secció i la barra lateral al costat */
 .contingut-principal {
     display: flex;
     gap: 30px;
@@ -47,9 +46,8 @@ footer {
     padding: 0 20px;
 }
 
-/* La part esquerra amb els articles ocuparà més espai */
 .seccio-articles {
-    flex: 3;
+    flex: 1.4;
 }
 
 /* La barra lateral a la dreta */
