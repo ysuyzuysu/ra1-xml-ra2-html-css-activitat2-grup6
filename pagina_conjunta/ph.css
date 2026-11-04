@@ -5,10 +5,11 @@ body {
 }
 
 nav {
+    background: #ebeeea;
     padding: 10px;
-    font-family: Arial, sans-serif, 20px;
+    text-align: right;
+    color: black   
 }
-
 
 section {
     border: 1px solid #0bc915;
